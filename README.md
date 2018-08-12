@@ -9,6 +9,7 @@ Requires vk login/password to work.
 
 ```
 git clone https://github.com/kshcherban/vk-audio-downloader
+cd vk-audio-downloader
 pip3 install -r requirements.txt
 ```
 
